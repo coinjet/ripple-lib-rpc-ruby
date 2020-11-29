@@ -1,7 +1,7 @@
-ripple-lib-rpc-ruby
+divvy-lib-rpc-ruby
 ===================
 
-Ripple Client Ruby Gem
+Divvy Client Ruby Gem
 
 ## Installation
 
